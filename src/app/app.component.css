@@ -23,9 +23,7 @@ body {
 	-moz-transform: rotate(0);
 	transform: rotate(0);
 }
-/* .login article {
-	
-} */
+
 .login .form-group {
 	margin-bottom:17px;
 }
